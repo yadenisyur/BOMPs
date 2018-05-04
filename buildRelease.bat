@@ -1,5 +1,6 @@
 @echo off
 
+copy BOMPs.version GameData\BOMPs\BOMPs.version 
 copy /Y ..\MiniAVC.dll GameData\BOMPs
 
 set DEFHOMEDRIVE=d:
