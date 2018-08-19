@@ -1,3 +1,6 @@
+1.0.1.5
+	Fixed typo in the BOMPXL which prevented it from being loaded
+
 1.0.1.4
 	Updated some descriptions
 
