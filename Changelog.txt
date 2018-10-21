@@ -1,3 +1,6 @@
+1.0.1.7
+	Fixed version file
+
 1.0.1.6
 	Version bump for 1.5 rebuild
 
